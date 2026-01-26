@@ -38,7 +38,7 @@ Me interesa aportar en equipos donde pueda **analizar datos, automatizar proceso
 Capstone SAG – Análisis Geoespacial de Parcelas Agrícolas (Tesis)
 Proyecto de tesis que integra **análisis de datos, backend y visualización geoespacial** para la gestión de parcelas agrícolas.
 -	Stack: Stack: TypeScript, JavaScript, SQL Server, HTML/CSS.
- https://github.com/Lukehz/capstone_sag
+  https://github.com/Lukehz/capstone_sag
 
 ---
 
