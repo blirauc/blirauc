@@ -1,4 +1,4 @@
-# 👋 Hola, soy Bastián Lira
+# Hola, soy Bastián Lira
 
 🎓 Ingeniero en Informática titulado, con **especialización en Ciencia de Datos**  
 📊 Interesado en **Data Analyst / Trainee / Backend Junior**  
@@ -7,8 +7,8 @@
 ---
 
 ## 🧠 Sobre mí
-Soy Ingeniero en Informática con foco en **análisis de datos, machine learning y desarrollo backend**.  
-He desarrollado proyectos académicos y de tesis utilizando **datasets reales**, integrando procesamiento de datos, bases de datos SQL, APIs y visualización.
+Soy Ingeniero en Informática con foco en análisis de datos, machine learning y desarrollo backend.  
+He desarrollado proyectos académicos y de tesis utilizando *datasets reales*, integrando procesamiento de datos, bases de datos SQL, APIs y visualización.
 
 Me interesa aportar en equipos donde pueda **analizar datos, automatizar procesos y apoyar la toma de decisiones**, mientras sigo aprendiendo en un entorno profesional.
 
