@@ -52,7 +52,7 @@ Modelos de clasificación y regresión aplicados a datos bancarios reales.
 
 Weather Australia – Data Analysis
 Análisis exploratorio y visualización de datos climáticos.
-- Python, Pandas, visualización  
+- Python, Pandas, visualización con power bi
  https://github.com/blirauc/Proyecto-de-Caso-Australia
 
 ---
