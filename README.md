@@ -38,22 +38,21 @@ Me interesa aportar en equipos donde pueda **analizar datos, automatizar proceso
 Capstone SAG – Análisis Geoespacial de Parcelas Agrícolas (Tesis)
 Proyecto de tesis que integra **análisis de datos, backend y visualización geoespacial** para la gestión de parcelas agrícolas.
 -	Stack: Stack: TypeScript, JavaScript, SQL Server, HTML/CSS
-  
-  https://github.com/Lukehz/capstone_sag
+-	 link: https://github.com/Lukehz/capstone_sag
 
 ---
 
 Análisis Predictivo de Clientes Bancarios
 Modelos de clasificación y regresión aplicados a datos bancarios reales.
 - Python, Scikit-learn, KPIs
-  https://github.com/blirauc/Machine-learning-con-kedro
+-  link: https://github.com/blirauc/Machine-learning-con-kedro
 
 ---
 
 Weather Australia – Data Analysis
 Análisis exploratorio y visualización de datos climáticos.
 - Python, Pandas, visualización con power bi
- https://github.com/blirauc/Proyecto-de-Caso-Australia
+- link: https://github.com/blirauc/Proyecto-de-Caso-Australia
 
 ---
 
