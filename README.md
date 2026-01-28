@@ -45,8 +45,8 @@ Proyecto de tesis que integra **análisis de datos, backend y visualización geo
 
 Análisis Predictivo de Clientes Bancarios
 Modelos de clasificación y regresión aplicados a datos bancarios reales.
-- Python, Scikit-learn, KPIs, SQL  
-  https://github.com/blirauc/machine-learning-con-kedro-
+- Python, Scikit-learn, KPIs
+  https://github.com/blirauc/Machine-learning-con-kedro
 
 ---
 
