@@ -1,12 +1,12 @@
 # Hola, soy Bastián Lira
 
 🎓 Ingeniero en Informática titulado, con **especialización en Ciencia de Datos**  
-📊 Interesado en **Data Analyst / Trainee / Backend Junior**  
-📍 Chile | Abierto a remoto / híbrido
+ Interesado en **Data Analyst / Trainee / Backend Junior**  
+ Chile | Abierto a remoto / híbrido
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 Soy Ingeniero en Informática con foco en análisis de datos, machine learning y desarrollo backend.  
 He desarrollado proyectos académicos y de tesis utilizando *datasets reales*, integrando procesamiento de datos, bases de datos SQL, APIs y visualización.
 
@@ -14,7 +14,7 @@ Me interesa aportar en equipos donde pueda **analizar datos, automatizar proceso
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 *Data & Analytics*
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)
@@ -57,7 +57,7 @@ Análisis exploratorio y visualización de datos climáticos.
 ---
 
 # Contacto
-- 📧 Email: sandovallira2002@gmail.com
-- 💼 LinkedIn: http://www.linkedin.com/in/bastián-lira-sandoval-143b18222
+- Email: sandovallira2002@gmail.com
+- LinkedIn: http://www.linkedin.com/in/bastián-lira-sandoval-143b18222
 
  Siempre abierto a oportunidades **Junior / Trainee**
