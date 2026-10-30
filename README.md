@@ -1,6 +1,6 @@
 # Hola, soy Bastián Lira
 
-🎓 Ingeniero en Informática titulado, con **especialización en Ciencia de Datos**  
+ Ingeniero en Informática titulado, con **especialización en Ciencia de Datos**  
  Interesado en **Data Analyst / Trainee / Backend Junior**  
  Chile | Abierto a remoto / híbrido
 
